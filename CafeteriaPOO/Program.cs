@@ -38,7 +38,8 @@
         static void Main(string[] args)
         {
             // Variables para datos
-            string nombre, tamaño;
+            string nombre;
+            string tamaño;
             float precio;
             // Bebida 1
             Console.WriteLine("Ingrese el nombre de la bebida 1:");
